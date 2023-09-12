@@ -1,4 +1,5 @@
-# awesome-kamal
+# Awesome Kamal Deploy [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
+
 Awesome list of all things [Kamal](https://kamal-deploy.org) (formerly MRSK).
 
 > **Want to hack on the project?** Any kind of contribution is welcome! Open an Issue or PR with your proposed changes.
