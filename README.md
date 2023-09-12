@@ -7,9 +7,12 @@ Awesome list of all things [kamal (formerly mrsk)](https://kamal-deploy.org)
 - [Deploying Django with Kamal (mrsk)](https://anthonynsimon.com/blog/kamal-deploy/)
 - [Deploying Rails with MRSK + Caddy](https://greg.molnar.io/blog/deploying-a-rails-app-with-mrsk/)
 - [Deploying Next.js using MRSK (Kamal)](https://medium.com/@ruslanfg/deploying-nextjs-using-mrsk-819aa9eb83ba)
+- [How to use Basecamp's MRSK with AWS and GitHub](https://jetrockets.com/blog/how-to-use-basecamp-s-mrsk-with-aws-and-github)
 
 ## Articles
+- [Introducing Kamal](https://world.hey.com/dhh/introducing-kamal-9330a267)
 - [MRSK: hot deployment tool to watch—or a total game changer?](https://evilmartians.com/chronicles/mrsk-hot-deployment-tool-or-total-game-changer)
+- [We have left the cloud](https://world.hey.com/dhh/we-have-left-the-cloud-251760fb)
 
 ## Videos
 - [Deploying with MRSK: Rails application to Digital Ocean](https://www.driftingruby.com/episodes/deploying-with-mrsk)
