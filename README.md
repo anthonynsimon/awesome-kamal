@@ -1,8 +1,14 @@
-# Awesome Kamal Deploy [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg )](https://github.com/sindresorhus/awesome)
+# Awesome Kamal Deploy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of awesome, [Kamal](https://kamal-deploy.org) (formerly MRSK) related things.
 
 > **Want to hack on the project?** Any kind of contribution is welcome! Open an Issue or PR with your proposed changes.
+
+## Contents
+
+- [Tutorials](#tutorials)
+- [Articles](#articles)
+- [Resources](#resources)
 
 ## Tutorials
 
@@ -27,10 +33,10 @@ A curated list of awesome, [Kamal](https://kamal-deploy.org) (formerly MRSK) rel
 - [Migrating from Ansible-Capistrano like to Single-Host Docker deployment using Mrsk](https://www.stefanwienert.de/blog/2023/03/30/rails-mrsk-deployment-migrating-from-ansible-capistrano-like-to-single-host-docker-deployment-using-mrsk/)
 - [How To Use Basecamp’s MRSK With AWS and GitHub](https://jetrockets.com/blog/how-to-use-basecamp-s-mrsk-with-aws-and-github)
 
-## Help links
+## Resources
 - [Source code](https://github.com/basecamp/kamal)
-- [Documentation](https://kamal-deploy.org)
-- [Discord](https://discord.com/invite/YgHVT7GCXS)
+- [Official Documentation](https://kamal-deploy.org)
+- [Official Discord](https://discord.com/invite/YgHVT7GCXS)
 
 ## License
 Please read the [LICENSE](LICENSE) file for more details.
