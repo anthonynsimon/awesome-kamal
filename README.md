@@ -32,6 +32,7 @@ A curated list of awesome, [Kamal](https://kamal-deploy.org) (formerly MRSK) rel
 - [We have left the cloud](https://world.hey.com/dhh/we-have-left-the-cloud-251760fb)
 - [Migrating from Ansible-Capistrano like to Single-Host Docker deployment using Mrsk](https://www.stefanwienert.de/blog/2023/03/30/rails-mrsk-deployment-migrating-from-ansible-capistrano-like-to-single-host-docker-deployment-using-mrsk/)
 - [How To Use Basecamp’s MRSK With AWS and GitHub](https://jetrockets.com/blog/how-to-use-basecamp-s-mrsk-with-aws-and-github)
+- [MRSK vs Fly.io](https://fly.io/ruby-dispatch/mrsk-vs-flyio/)
 
 ## Resources
 - [Source code](https://github.com/basecamp/kamal)
