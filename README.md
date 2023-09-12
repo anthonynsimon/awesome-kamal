@@ -1,5 +1,5 @@
 # awesome-kamal
-Awesome list of all things [kamal (formerly mrsk)](https://kamal-deploy.org)
+Awesome list of all things [Kamal](https://kamal-deploy.org) (formerly MRSK).
 
 ## Tutorials
 - [Migrating from Ansible-Capistrano like to Single-Host Docker deployment using Mrsk](https://www.stefanwienert.de/blog/2023/03/30/rails-mrsk-deployment-migrating-from-ansible-capistrano-like-to-single-host-docker-deployment-using-mrsk/)
@@ -22,4 +22,3 @@ Awesome list of all things [kamal (formerly mrsk)](https://kamal-deploy.org)
 - [Source code](https://github.com/basecamp/kamal)
 - [Documentation](https://kamal-deploy.org)
 - [Discord](https://discord.com/invite/YgHVT7GCXS)
-
