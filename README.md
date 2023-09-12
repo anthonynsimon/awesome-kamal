@@ -1,11 +1,6 @@
 # awesome-kamal
 Awesome list of all things [kamal (formerly mrsk)](https://kamal-deploy.org)
 
-## Useful links
-- [Source code](https://github.com/basecamp/kamal)
-- [Documentation](https://kamal-deploy.org)
-- [Discord](https://discord.com/invite/YgHVT7GCXS)
-
 ## Tutorials
 - [Migrating from Ansible-Capistrano like to Single-Host Docker deployment using Mrsk](https://www.stefanwienert.de/blog/2023/03/30/rails-mrsk-deployment-migrating-from-ansible-capistrano-like-to-single-host-docker-deployment-using-mrsk/)
 - [Deploying a Rails App with MRSK on Hetzner](https://dev.to/adrienpoly/deploying-a-rails-app-with-mrsk-on-hetzner-a-beginners-guide-39kp)
@@ -18,5 +13,10 @@ Awesome list of all things [kamal (formerly mrsk)](https://kamal-deploy.org)
 
 ## Videos
 - [Deploying with MRSK: Rails application to Digital Ocean](https://www.driftingruby.com/episodes/deploying-with-mrsk)
+- [Deploying Laravel apps with MRSK](https://www.youtube.com/watch?v=BKquUJ5tuq0)
 
+## Help links
+- [Source code](https://github.com/basecamp/kamal)
+- [Documentation](https://kamal-deploy.org)
+- [Discord](https://discord.com/invite/YgHVT7GCXS)
 
